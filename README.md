@@ -1,0 +1,2 @@
+# gnomac
+GNOMac Desktop theme
